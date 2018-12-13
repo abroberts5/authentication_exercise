@@ -1,0 +1,3 @@
+The Primary use cases for authentication is to make sure functionality isn't exposed to everyone who visits your page. Administrators would have access to make changes or additions to a users profile based on requested information either personal or not. But if that availability was given to a person not with good intentions, then we'd have a problem that might not be able to be rectified.
+
+You can have a user be able to see and edit their own profile versus being able to edit another users' profile but can have access to see it. A user might be able to add a picture to their own profile but not to edit or update another's. It allows a user to have a more personalized experience and not have to worry about abuse from outside influences.
